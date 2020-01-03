@@ -1,4 +1,4 @@
-package lists;
+package com.Ukasz09.github;
 
 public interface List<E> extends Iterable<E>{
 

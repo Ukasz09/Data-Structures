@@ -1,6 +1,6 @@
-package lists.oneWayAcycledLinkedSentinel;
+package com.Ukasz09.github.oneWayAcycledLinkedSentinel;
 
-import lists.AbstractList;
+import com.Ukasz09.github.AbstractList;
 
 import java.util.Iterator;
 import java.util.NoSuchElementException;

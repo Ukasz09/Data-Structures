@@ -1,6 +1,6 @@
-package lists.oneWayCycledSorted;
+package com.Ukasz09.github.oneWayCycledSorted;
 
-import lists.AbstractList;
+import com.Ukasz09.github.AbstractList;
 
 import java.util.Iterator;
 import java.util.NoSuchElementException;

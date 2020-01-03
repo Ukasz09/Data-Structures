@@ -1,7 +1,7 @@
-package lists.arrayList;
+package com.Ukasz09.github.arrayList;
 
-import lists.AbstractList;
-import lists.oneWayCycledSorted.Predicate;
+import com.Ukasz09.github.oneWayCycledSorted.Predicate;
+import com.Ukasz09.github.AbstractList;
 
 import java.util.Iterator;
 import java.util.ListIterator;

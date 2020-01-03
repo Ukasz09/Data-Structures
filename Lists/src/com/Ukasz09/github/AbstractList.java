@@ -1,4 +1,4 @@
-package lists;
+package com.Ukasz09.github;
 
 public abstract class AbstractList<E> implements List<E> {
 
