@@ -15,6 +15,9 @@ Data structures implementation which I made in 2019, during my second semester f
    - 🔸 Array queue </br>
 3. ✔️ Stack <br/>
    - 🔸 Drawing stack </br>
+4. ✔️ Map (Dictionary) and Set <br/>
+   - 🔸 Dictionary (map) implementation, based on ArrayList with key and value iterators </br>
+   - 🔸 Set implementation, based on ArrayList </br>
 ---
 ## Contact
 Created by [@Ukasz09](https://github.com/Ukasz09) <br/>
