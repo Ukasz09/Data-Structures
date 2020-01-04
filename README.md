@@ -6,10 +6,15 @@ Data structures implementation which I made in 2019, during my second semester f
 
 ---
 ## List of data structures
-1. ✔️ List <br/>
+1. ✔️ Lists <br/>
    - 🔸 One way linked acycled list with sentinel </br>
+   - 🔸 Two way linked cycled list with sentinel </br>
    - 🔸 One way cycled sorted list </br>
-   - 🔸 Array list </br>
+   - 🔸 Array list </br>  
+2. ✔️ Queue <br/>
+   - 🔸 Array queue </br>
+3. ✔️ Stack <br/>
+   - 🔸 Drawing stack </br>
 ---
 ## Contact
 Created by [@Ukasz09](https://github.com/Ukasz09) <br/>
