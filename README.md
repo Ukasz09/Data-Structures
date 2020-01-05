@@ -18,6 +18,8 @@ Data structures implementation which I made in 2019, during my second semester f
 4. ✔️ Map (Dictionary) and Set <br/>
    - 🔸 Dictionary (map) implementation, based on ArrayList with key and value iterators </br>
    - 🔸 Set implementation, based on ArrayList </br>
+5. ✔️ Binary Search Tree (BST) <br/>
+   - 🔸 with Day–Stout–Warren (DSW) balancing algorithm </br>
 ---
 ## Contact
 Created by [@Ukasz09](https://github.com/Ukasz09) <br/>
