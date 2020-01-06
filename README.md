@@ -20,6 +20,8 @@ Data structures implementation which I made in 2019, during my second semester f
    - 🔸 Set implementation, based on ArrayList </br>
 5. ✔️ Binary Search Tree (BST) <br/>
    - 🔸 with Day–Stout–Warren (DSW) balancing algorithm </br>
+6. ✔️ AVL Tree <br/>
+7. ✔️ Radix Tree <br/>
 ---
 ## Contact
 Created by [@Ukasz09](https://github.com/Ukasz09) <br/>
