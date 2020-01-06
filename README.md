@@ -22,6 +22,10 @@ Data structures implementation which I made in 2019, during my second semester f
    - 🔸 with Day–Stout–Warren (DSW) balancing algorithm </br>
 6. ✔️ AVL Tree <br/>
 7. ✔️ Radix Tree <br/>
+8. ✔️ Graphs <br/>
+   - 🔸 Weighted digraph in adjacency list implementation </br>  
+   - 🔸 Digraph in adjacency matrix implementation </br> 
+   
 ---
 ## Contact
 Created by [@Ukasz09](https://github.com/Ukasz09) <br/>
